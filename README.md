@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @mdesignscode
+- 👋 Hi, I’m @mdesignscode [Marlon Baatjes]
 - 👀 I’m interested in FrontEnd Development
-- 🌱 I’m currently learning HTML & CSS(Scss) from FreeCodeCamp.com, and I'm learning to be a Software Engineer from the ALX Software Engineering Program
+- 🌱 I'm learning to be a Full Stack Software Engineer from the ALX Software Engineering Program
+- Technologies I use : C
+                       Python
+                       HTML
+                       CSS
 - 📫 You can reach me on WhatsApp @0730687378
 
 <!---
