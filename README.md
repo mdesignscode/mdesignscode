@@ -3,13 +3,9 @@
 - 🌱 I'm learning to be a Full Stack Software Engineer from the ALX Software Engineering Program
 - 🔧 Technologies I use : 🤖C, 🐍Python, 👷HTML, 💅 CSS, 🕸 JavaScript, 🌐 SQL, 🐧 Linux/Shell
 - 📫 You can reach me on WhatsApp @0730687378 or email at marlonbaatjes62@gmail.com
-- Experienced web developer looking to provide design and development services.
-
+- 💻🎨🕸 Experienced web developer looking to provide design and development services.
 - 🍔👷 I'm a full stack software engineer with creativity that can be found in my work. I have an eye for detail and a passion for turning your visions into reality.
-
 - 📚🛠🏗 I love to learn, create and make things. I'm always striving to improve my skills and push myself to the next level.
-
-- 💻🎨🕸 I build websites, create graphics, and dream in code.
 
 <!---
 mdesignscode/mdesignscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
