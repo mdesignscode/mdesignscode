@@ -1,16 +1,21 @@
-Hi I'm Marlon Baatjes. I am a passionate and self-motivated software engineer, dedicated to crafting robust and efficient solutions. With a strong foundation in programming and a thirst for continuous learning, I strive to contribute to the world of technology and make a positive impact.
+<h1 align="center">Hi 👋, I'm Marlon Baatjes</h1>
+<h3 align="center">A passionate frontend engineer from South Africa.</h3>
 
-My journey in software development has been a dynamic one. Through hands-on programs and completing the Google IT Support Professional Certificate, I have gained valuable skills in various programming languages, frameworks, and systems. My technical expertise includes FrontEnd egineering using jQuery, React.js, Next.js, Scss and JavaScript, BackEnd engineering using Python, Flask and Express.js, Relational Database Management using MySQL and Prisma.js and IT Support.
+- 🔭 I’m currently working on [spots](https://github.com/mdesignscode/spots)
 
-Driven by a natural curiosity, I am constantly exploring new technologies, staying up to date with the latest industry trends, and seeking opportunities to expand my knowledge. I embrace challenges and approach problem-solving with creativity and analytical thinking. I thrive in collaborative environments and enjoy working with teams to bring innovative ideas to life.
+- 👨‍💻 All of my projects are available at [https://marlonbaatjes.vercel.app/](https://marlonbaatjes.vercel.app/)
 
-On my GitHub, you will find a collection of projects that showcase my skills, creativity, and dedication to craftsmanship. These projects encompass tasks assigned by the ALX Software Engineer Program, written using languages C, Python, SQL, and JavaScript.
+- 💬 Ask me about **React and Python**
 
-I believe in the power of open-source collaboration and the impact it can have on the tech community. Feel free to explore my repositories, contribute to ongoing projects, or connect with me to discuss potential collaborations.
+- 📫 How to reach me **marlonbaatjes62@gmail.com**
 
-Beyond coding, I am an avid learner, a curious explorer of the universe, and a firm believer in the potential of technology to transform lives. I am excited about the endless possibilities that lie ahead and look forward to connecting with fellow developers, sharing knowledge, and creating meaningful solutions together.
+- ⚡ Fun fact **I love Anime**
 
-<!---
-mdesignscode/mdesignscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/marlon baatjes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marlon baatjes" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
