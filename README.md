@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marlon Baatjes</h1>
 <h3 align="center">A passionate frontend engineer from South Africa.</h3>
 
-- 🔭 I’m currently working on [spots](https://github.com/mdesignscode/spots)
+- 🔭 I’m currently working on [trivia_mania](https://github.com/mdesignscode/trivia_mania)
 
 - 👨‍💻 All of my projects are available at [https://marlonbaatjes.vercel.app/](https://marlonbaatjes.vercel.app/)
 
